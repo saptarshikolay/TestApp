@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+<color name="deep_red">#CD0505</color>
+<color name="deep_blue">#1B31BD</color>
+<color name="deep_yellow">#C39017</color>
+<color name="deep_green">#106113</color>
+<color name="light_red">#F1504C</color>
+<color name="light_blue">#5A97CC</color>
+<color name="light_yellow">#ECD880</color>
+<color name="light_green">#55A358</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid-19IndiaTracker</string>
+    <string name="india_covid_19_tracker">India Covid-19\nTracker</string>
+    <string name="last_updated">by \nSAPTARSHI KOLAY</string>
+    <string name="cnfmd">CNFMD</string>
+    <string name="state_ut">STATE/UT</string>
+    <string name="active">ACTV</string>
+    <string name="rcvrd">RCVRD</string>
+    <string name="deaths">DEATH</string>
+    <string name="confirmed_land">CONFIRMED</string>
+    <string name="active_land">ACTIVE</string>
+    <string name="recovered_land">RECOVERED</string>
+    <string name="deaths_land">DEATHS</string>
+    <string name="by_saptarshi_kolay">by \nSAPTARSHI KOLAY</string>
+
+
+</resources>
